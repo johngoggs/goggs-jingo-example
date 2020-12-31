@@ -1,1 +1,1 @@
-# New page
+Edited some text on the homepage.
